@@ -29,6 +29,17 @@
     color:black;
 }
 
+#summary{
+    padding: 1000px;
+}
+
+#summary1{
+    font-size: 1em;
+    background-color: rgb(209,167,202);
+    border:1px solid black;
+    border-radius: 20%;
+}
+
 #HeaderBar img {
     height: 100%;
     object-fit: contain;
